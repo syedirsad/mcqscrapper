@@ -1,0 +1,6 @@
+{
+  "name": "Physics MCQ Scraper",
+  "description": "An AI-powered tool that automatically scrapes MCQs from websites. It navigates through paginated question lists, extracts questions, options, answers, and source exams using Gemini, and aggregates the results.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
